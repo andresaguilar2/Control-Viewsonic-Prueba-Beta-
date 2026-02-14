@@ -1,0 +1,15 @@
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\bin\Release\ControlProyectorViewsonic2.exe.config
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\bin\Release\ControlProyectorViewsonic2.exe
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\bin\Release\ControlProyectorViewsonic2.pdb
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.csproj.AssemblyReference.cache
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.Form1.resources
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.Properties.Resources.resources
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.csproj.GenerateResource.cache
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.exe
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.pdb
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\bin\Release\ControlProyectorViewsonic2.exe.manifest
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\bin\Release\ControlProyectorViewsonic2.application
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.exe.config
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.exe.manifest
+C:\Users\andres\source\repos\ControlProyectorViewsonic2\ControlProyectorViewsonic2\obj\Release\ControlProyectorViewsonic2.application
