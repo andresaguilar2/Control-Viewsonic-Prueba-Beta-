@@ -1,1 +1,0 @@
-# Control-Viewsonic-Prueba-Beta-
